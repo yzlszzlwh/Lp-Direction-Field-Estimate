@@ -1,0 +1,11 @@
+{
+  "material": "E7",
+  "K1_pN": 11.1,
+  "K2_pN": 6.5,
+  "K3_pN": 17.1,
+  "gamma_Pas": 0.17,
+  "delta_eps": 13.8,
+  "cell_gap_um": 5,
+  "V_safe_min": 1.2,
+  "response_time_ms": "2-3"
+}
